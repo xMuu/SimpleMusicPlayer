@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_package = "dev.xmuu.smp.proto";
+option java_multiple_files = true;
+
+message PlayerData {
+  enum PlayerStatus {
+    TYPE_UNSPECIFIED = 0;
+    TYPE_PAUSED = 1;
+    TYPE_LOADING = 2;
+    TYPE_PLAYING = 3;
+  }
+
+  enum PlayerMode {
+    TASTE_UNSPECIFIED = 0;
+    TASTE_ORDER = 1;
+    TASTE_SINGLE = 2;
+    TASTE_SHUFFLE = 3;
+  }
+
+  PlayerStatus status = 1;
+  PlayerMode mode = 2;
+  string song = 3;
+  repeated string songs = 4;
+}

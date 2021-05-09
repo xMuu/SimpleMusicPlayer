@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Simple Music Player</string>
+    <string name="menu">菜单</string>
+    <string name="search">搜索</string>
+    <string name="next_song">下一首</string>
+    <string name="playlist">播放列表</string>
+    <string name="local_music">本地音乐</string>
+    <string name="online_board">在线榜单</string>
+    <string name="play_or_pause">播放或暂停</string>
+    <string name="album_cover">专辑封面</string>
+    <string name="board_cover">榜单封面</string>
+    <string name="lyric">歌词</string>
+    <string name="close_player_activity">关闭界面</string>
+
+
+    <string name="notification_channel">SMP</string>
+    <string name="notification_channel_description">SMP 正在播放的歌曲</string>
+
+</resources>
