@@ -12,10 +12,7 @@
 
 
 ## 效果图展示
-![img](./img/1.png)
-![img](./img/2.png)
-![img](./img/3.png)
-![img](./img/4.png)
+![img](./img/screenshot.jpg)
 
 
 ## 感谢
