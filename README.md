@@ -25,8 +25,7 @@
 - [网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - [android/uamp](https://github.com/android/uamp)
 - [Moriafly/DsoMusic](https://github.com/Moriafly/DsoMusic)
-
-......
+- ......
 
 此外，本项目使用到了很多第三方的库和组件，包括但不限于 EventBus 、 OkHttp 、 RxHttp 、 Glide 等，感谢他们。
 
